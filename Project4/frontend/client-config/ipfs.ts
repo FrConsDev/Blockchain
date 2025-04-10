@@ -1,0 +1,1 @@
+export const ipfsToHttp = (cid: string) =>`https://gateway.pinata.cloud/ipfs/${cid}`;
